@@ -31,7 +31,7 @@ docker-compose up
 #### Telegraf
 
 - Telegraf have started running, and inserting data on influxdb database. Name is specified in `telegraf.conf`
-- Checkout input plugins telegraf has availables. `https://github.com/influxdata/telegraf/tree/master/plugins/inputs`
+- Checkout input plugins telegraf has available. `https://github.com/influxdata/telegraf/tree/master/plugins/inputs`
 
 
 I attach a .json dashboard already configured for telegraf. (Import it)
