@@ -8,9 +8,10 @@
 
 > Monitoring solution setup with influx, grafana and telegraf.
 
-- **Influxdb**: open source time-series database.
-- **Grafana**: open source observability dashboards.
-- **Telegraf**: influxdb data collection agent.
+Stack
+- **Influxdb**: open source time-series database. (DB)
+- **Grafana**: open source observability dashboards. (UI)
+- **Telegraf**: influxdb data collection agent. (Collector)
 
 ## Usage
 
